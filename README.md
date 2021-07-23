@@ -8,13 +8,12 @@ Most of the code was written by the University of Berkeley except for the variou
 # Introduction
 In this project, Pacman agent will find paths through his maze world, both to reach a particular location and to collect food efficiently using general search algorithms and using them on verius Pacman scenarios.
 
-# Download and play
+# Download
 1. make sure to have any version of python 3.
 1. download the full repository.
 1. open the filles on your python ide of choice.
 1. go over to cmd where the downloaded filles are located.
-1. type the following commend to see it all works.
-    * python pacman.py
+1. type the following commend to see it all works: python pacman.py
 
 
 # How to play
