@@ -72,7 +72,7 @@ python pacman.py -h
 1. typing into your terminal: python pacman.py -l bigSearch -p ClosestDotSearchAgent -z .5
 
 # viewing the code
-## the main code that was not given and need to be written by me is in the next filles:
+## the main code that was not given and needed to be written by me located in the next filles:
 1. search.py
 1. searchAgent.py
 
