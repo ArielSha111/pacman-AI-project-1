@@ -1,6 +1,6 @@
 
 # pacman-AI-project-1
-in this project i have used common AI algorithems for a version of Pacman, including ghosts. using the base of AI algoritems.
+In this project i have used common AI algorithems for a version of Pacman, including ghosts. using the base of AI algoritems.
 Most of the code was written by the University of Berkeley except for the various search algorithms.
 
 * the original source is: [pacman project 1](https://inst.eecs.berkeley.edu/~cs188/fa20/project1/)
