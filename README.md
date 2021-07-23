@@ -17,16 +17,16 @@ In this project, Pacman agent will find paths through his maze world, both to re
 
 # How to play
 1. Open the CMD on the path of the downloaded files
-1. type: python pacman.py
-1. use your keyboard to move the Pacman.
-1. make sure to not let pacman lose many points since the game will be over.
+1. Type: python pacman.py
+1. Use your keyboard to move the Pacman.
+1. Make sure to not let pacman lose many points since the game will be over.
 
 
 # AI algorithms and commands
 
 **Open the CMD on the path of the downloaded files and then type any of commends that will be presented.**
 
-**at any point if Pacman gets stuck, you can exit the game by type CTRL-c .**
+**At any point if Pacman gets stuck, you can exit the game by type CTRL-c .**
 
 
 > Note that pacman.py supports a number of options that can each be expressed in a long way (e.g. , --layout) or a short way (e.g., -l). You can see the list of all options and their default values via the next commend:
@@ -73,8 +73,8 @@ python pacman.py -h
 ## Suboptimal Search
 1. To test Suboptimal Search type : python pacman.py -l bigSearch -p ClosestDotSearchAgent -z .5
 
-# viewing the code
-## the main code that was not given and needed to be written by me located in the next filles:
+# Viewing the code
+## The main code that was not given and needed to be written by me located in the next filles:
 1. search.py
 1. searchAgent.py
 
