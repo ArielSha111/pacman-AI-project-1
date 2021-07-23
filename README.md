@@ -22,7 +22,7 @@ In this project, Pacman agent will find paths through his maze world, both to re
 
 # AI algorithms and commands
 
-**go over to cmd where the downloaded filles are located to type any of following commends the will be presented.**
+**go over to cmd where the downloaded filles are located to type any of following commends that will be presented.**
 
 **at any point if Pacman gets stuck, you can exit the game by typing CTRL-c into your terminal.**
 
