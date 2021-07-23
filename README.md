@@ -16,8 +16,11 @@ In this project, Pacman agent will find paths through his maze world, both to re
 
 
 # How to play
+1. Open the CMD on the path of the downloaded files
+1. type: python pacman.py
 1. use your keyboard to move the Pacman.
 1. make sure to not let pacman lose many points since the game will be over.
+
 
 # AI algorithms and commands
 
